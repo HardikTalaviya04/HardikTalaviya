@@ -36,7 +36,7 @@ Here are a few notable projects I've worked on:
 
 - LinkedIn: [Hardik Talaviya](https://www.linkedin.com/in/hardikt-developer/)
 - Instagram: [@hardiktalaviya04\*](https://www.instagram.com/hardik_talaviya44)
-- Website: [HardikTalaviya04.github.io](https://HardikTalaviya04.github.io/HardikTalaviya04/)
+- Website: [HardikTalaviya04.github.io](https://hardiktalaviya04.github.io/HardikTalaviya/)
 
 ## Support
 
