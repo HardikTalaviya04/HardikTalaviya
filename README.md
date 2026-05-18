@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I'm a React Native developer with 3+ years of experience.
+- 🔭 I'm a React Native developer with 5+ years of experience.
 - 🌱 I’m currently exploring advanced React Native techniques and state management.
 - 👯 I’m looking to collaborate on open-source React Native projects.
 - 💬 Ask me about React Native, JavaScript, Mobile App Development.
